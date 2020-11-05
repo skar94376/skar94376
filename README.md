@@ -6,7 +6,7 @@
 :ballot_box_with_check: Big fan of statistics plus your data:stuck_out_tongue_winking_eye:.<br>
 :ballot_box_with_check: Data :fast_forward: Information :fast_forward: Insights<br>
 :ballot_box_with_check: Currently learning Neural Networks:blue_book::desktop_computer:.<br>
-:ballot_box_with_check: Fun Fact: Follows in stock market and yeah I do trade:moneybag: Loves Travel & Food:small_airplane::hamburger:<br>
+:ballot_box_with_check: Fun Fact: Follows stock market and yeah I do trade in options:moneybag: Loves Travel & Food:small_airplane::hamburger:<br>
 
 <p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="320" height="350">
