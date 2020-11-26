@@ -8,6 +8,6 @@
 :ballot_box_with_check: Fun Fact: Loves Travel & Food & OptionsTrade:small_airplane::hamburger::moneybag:<br>
 
 <p>
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="320" height="30">
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="320" height="300">
 <img align="left" src="https://media.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.gif" width="320" height="300" >
 </p>
